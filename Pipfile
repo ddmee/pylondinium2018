@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 pylint = "*"
 yapf = "*"
-robotframework = "*"
 expects = "*"
 
 [requires]

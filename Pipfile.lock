@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "693d7cd031d9006010eece85bc27748b7be25d36014bcd7c64d7a19c7e051156"
+            "sha256": "d5cb75808bdfa85439e299df28deebd1315b14ec9d79b0961ebe48c6d98ec12c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -22,6 +22,14 @@
                 "sha256:fc9b582dba0366e63540982c3944a9230cbc6f303641c51483fa547dcc22393a"
             ],
             "version": "==1.6.5"
+        },
+        "colorama": {
+            "hashes": [
+                "sha256:463f8483208e921368c9f306094eb6f725c6ca42b0f97e313cb5d5512459feda",
+                "sha256:48eb22f4f8461b1df5734a074b57042430fb06e1d61bd1e11b078c0fe6d7a1f1"
+            ],
+            "markers": "sys_platform == 'win32'",
+            "version": "==0.3.9"
         },
         "expects": {
             "hashes": [
@@ -86,13 +94,6 @@
             ],
             "index": "pypi",
             "version": "==1.9.2"
-        },
-        "robotframework": {
-            "hashes": [
-                "sha256:ab94257cbd848dfca7148e092d233a12853cc7e840ce8231af9cbb5e7f51aa47"
-            ],
-            "index": "pypi",
-            "version": "==3.0.4"
         },
         "six": {
             "hashes": [
