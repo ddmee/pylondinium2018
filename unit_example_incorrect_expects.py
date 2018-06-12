@@ -1,12 +1,9 @@
 """Built-in Assertion error is not so good.
 That's why we have assertion helpers in unittest right?
 
-Like self.AssertEqual() method from TestCase class in unittest.
-
 Well, advantage of staying light and nimble with our tooling is I can
 user a specific library to deal with improving expectations.
-
-Try a specific library for that."""
+"""
 # third party
 from expects import * # this is normal for usage of expects...
 # local lib
